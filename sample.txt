@@ -1,4 +1,19 @@
-A Sample file
+Git command:
 
-Another line
+
+git config --list
+
+git config --global user.name "shuen mei"
+
+git status
+
+git commit -m "add le file"
+
+git branch -M main
+
+git remote add origin "https://github.com/shuenmei/mytestrepo.git"
+
+git push -u origin main
+
+
 
