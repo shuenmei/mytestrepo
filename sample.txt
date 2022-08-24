@@ -16,4 +16,9 @@ git remote add origin "https://github.com/shuenmei/mytestrepo.git"
 git push -u origin main
 
 
+git branch dev2
+
+git checkout dev2
+
+
 
